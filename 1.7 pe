@@ -1,0 +1,11 @@
+Proceso sin_titulo
+	Definir a,b Como Entero;
+	definir res Como Real;
+	escribir "escribir el vaolor de a";
+	leer a;
+	
+	escribir "el valor de b";
+	leer b;
+	res =(a+b)^2/3;
+	escribir res;
+FinProceso
